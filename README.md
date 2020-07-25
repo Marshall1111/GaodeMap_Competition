@@ -7,7 +7,7 @@
 python dataset_creat_h5.py
 
 # run the main model for training in cuda mdoe
-python mian.py --cuda 1  
+python main.py --cuda 1  
 
 # run the main model for training in cpu mdoe
-python mian.py --cuda 0
+python main.py --cuda 0
